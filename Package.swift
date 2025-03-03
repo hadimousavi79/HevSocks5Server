@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HevSocks5Server",
-            url:"https://github.com/wanliyunyan/HevSocks5Server/releases/download/2.7.0/HevSocks5Server.xcframework.zip",
-            checksum: "ed9c3b83f6af6a82344deca3d217e37614e6a28596673df6b6a0b2804d757d46"
+            url:"https://github.com/wanliyunyan/HevSocks5Server/releases/download/2.8.0/HevSocks5Server.xcframework.zip",
+            checksum: "7e8c35446ff5e160e2a39cc82025b8358fb6e6fbe61488d8a572fa0009a0968c"
         )
     ]
 )
